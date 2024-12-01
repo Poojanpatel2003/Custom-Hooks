@@ -1,14 +1,14 @@
 # Custom Hooks
 This repository contains a React application that allows users to manage data in Local Storage and Session Storage. It also includes a real-time clock displayed at the top-left corner of the application. The app provides functionality to add, edit, save, and delete data with user-friendly notifications for each action.
 
-<h2>Features</h2>
-<p>
+# Features
+
 1. Manage Local Storage
 2. Manage Session Storage
 3. Real-Time Clock
 4. User Notifications
 5. Dynamic UI
-</p>
+
 
 <h2>How It Works</h2>
 1. Local Storage Management

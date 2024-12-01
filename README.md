@@ -29,6 +29,8 @@ This repository contains a React application that allows users to manage data in
   * ✖ Error Notification: For invalid actions like saving an empty field.
 4. Real-Time Clock
   * A clock updates every second to show the current time in hh:mm:ss AM/PM format.
+# Website Looks Like..
+![Screenshot 2024-12-01 111755](https://github.com/user-attachments/assets/e8f87f34-da27-42b0-a98f-07f127fe41c4)
 
 # How to Use This Repo
 * Step 1: Clone the Repository or download zip file

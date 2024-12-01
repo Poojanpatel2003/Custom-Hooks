@@ -10,7 +10,7 @@ This repository contains a React application that allows users to manage data in
 5. Dynamic UI
 
 
-<h2>How It Works</h2>
+# How It Works
 1. Local Storage Management
   * Add New Field: Use the "Add" button to create a new input field.
   * Enter Data: Type data into the input field and click Save to store it in localStorage.
@@ -30,7 +30,7 @@ This repository contains a React application that allows users to manage data in
 4. Real-Time Clock
   * A clock updates every second to show the current time in hh:mm:ss AM/PM format.
 
-<h1>How to Use This Repo</h1>
+# How to Use This Repo
 * Step 1: Clone the Repository or download zip file
 * Step 2: Install Dependencies
   * bun or npm install
@@ -38,7 +38,7 @@ This repository contains a React application that allows users to manage data in
   * bun or npm run dev
 * Step 4: Open in Browser
 
-<h3>Usage Instructions</h3>
+# Usage Instructions
 1. Add New Data:
 
   * Click the Add button under Local Storage or Session Storage.
